@@ -1,9 +1,3 @@
-# Author: Andreas Christian Mueller <t3kcit@gmail.com>
-#
-# (c) 2012
-# Modified by: Paul Nechifor <paul@nechifor.net>
-#
-# License: MIT
 
 from __future__ import division
 
